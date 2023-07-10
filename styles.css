@@ -58,3 +58,14 @@ img {
 	font-size: xx-large;
 	margin: 5px;
 }
+
+/* styling restaurant recommendation button */
+
+#restaurantButton {
+	background-color: #1EA896;
+	color: #FEF5EF;
+	border: none;
+	border-radius: 12px;
+	font-size: medium;
+	padding: 6px;
+}
